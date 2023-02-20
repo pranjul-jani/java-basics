@@ -1,2 +1,2 @@
 # java-basics
- basics of JAVA for quick revision
+ Basics of Java for quick interview prep
